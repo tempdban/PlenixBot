@@ -230,7 +230,7 @@
     },
     {
       "Key": "loggingIn",
-      "Value": "Logging in using {0}"
+      "Value": "Logging in Using {0}"
     },
     {
       "Key": "ptcOffline",
@@ -314,7 +314,7 @@
     },
     {
       "Key": "lookingForPokemon",
-      "Value": "Looking for Pokemon..."
+      "Value": "Looking For Pokemon..."
     },
     {
       "Key": "lookingForLurePokemon",
@@ -558,7 +558,7 @@
     },
     {
       "Key": "firstStartPrompt",
-      "Value": "This is Your First Start, Would You Like To Begin? {0}/{1}"
+      "Value": "Welcome, Would You Like To Begin The Setup? {0}/{1}"
     },
     {
       "Key": "firstStartLanguagePrompt",
@@ -642,7 +642,7 @@
     },
     {
       "Key": "softBanBypassed",
-      "Value": "Successfully bypassed!"
+      "Value": "Successfully Bypassed!"
     },
     {
       "Key": "firstStartSetupCompleted",
