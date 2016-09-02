@@ -1,0 +1,2 @@
+enabled=true;
+The bot will be always enabled. If we have any problems we will disable it for some hours. Thank you.
